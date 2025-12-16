@@ -186,7 +186,7 @@ The module provides several AJAX actions accessible through the client area inte
 All actions include:
 - Automatic IP ownership verification
 - Comprehensive error handling
-- Detailed audit logging to `/logs/` directory
+- Detailed audit logging to `/module_logs/` directory
 - Session-based authentication
 
 ## API Endpoints
@@ -408,10 +408,3 @@ SOFTWARE.
 ```
 
 ---
-
-**Version:** 1.0
-**Author:** Hostealo.es
-**API Provider:** PletX
-**Last Updated:** December 2025
-
-For the latest updates and releases, visit the [GitHub repository](https://github.com/yourusername/antiddos_panel).
